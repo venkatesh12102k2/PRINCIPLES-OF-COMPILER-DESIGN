@@ -15,7 +15,7 @@ Step-10	: If one of the states in any combined state is final state then mark th
 Step-11	: Display the transition table of the resultant DFA along with its initial and final states.
 </pre>
 <br>
-<h3>2 . NFA WITH EPSILON TO NFA</h3>
+<h3>2 . NFA WITH EPSILON MOVES TO NFA</h3>
 <h4>Algorithm:</h4>
 <pre>
 Step-1	: Prompt the user for the number of states, number of input symbols, initial and final states and the transition table of the NFA with epsilon moves.
